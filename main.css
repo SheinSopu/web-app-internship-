@@ -1,6 +1,6 @@
 body {
-    background: #ffffff;
-    background-image: url("https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QID47QDK6MI6VGJDK4DTVXHCPQ.jpg&w=1440");
+    background: #02b7ff;
+    /* background-image: url("https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QID47QDK6MI6VGJDK4DTVXHCPQ.jpg&w=1440"); */
     width: #333333;
     margin-top: 5rem;
   }
@@ -18,15 +18,17 @@ body {
   background-size: cover;
   } */
   h1 {
-    color: #ffffff
+    color: #c3073f;
   }
-  h2, h3, h4, h5, h6 {
-    color: #993737;
+  h2, h3, h5, h6 {
+    color: #c3073f;
   }
-  
-  /* .bg-steel {
-    /*background-color: #22272c;*/
-  /* } */ 
+  h4 {
+    color: #4e4e50;
+  }
+  .bg-steel {
+    background-color: #3a3dff;     /* change this for top bar background */
+  }
   
   .site-header .navbar-nav .nav-link {
     color: #cbd5db;
